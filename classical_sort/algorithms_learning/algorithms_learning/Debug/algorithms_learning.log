@@ -1,0 +1,6 @@
+﻿D:\Software\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(algorithms_learning.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+E:\WorkSpace\Git\algorithms_learning\classical_sort\algorithms_learning\algorithms_learning\sort_test_handler.h(14,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\WorkSpace\Git\algorithms_learning\classical_sort\algorithms_learning\algorithms_learning\sort_test_handler.h(34,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\WorkSpace\Git\algorithms_learning\classical_sort\algorithms_learning\algorithms_learning\main.cpp(11,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  algorithms_learning.vcxproj -> E:\WorkSpace\Git\algorithms_learning\classical_sort\algorithms_learning\Debug\classical_sort.exe
